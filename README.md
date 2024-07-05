@@ -1,11 +1,13 @@
 # QuantumultX
 #### Quantumult X 自用配置
 
+* 配置地址： [ ***QuantumultX.conf*** ](https://github.com/ilevitate/QuantumultX/blob/main/QuantumultX.conf)
+
 * 配置来源
 
   * 根据 墨鱼自用QX配置 [***Cuttlefish.conf***](https://github.com/ddgksf2013/Profile/raw/master/QuantumultX.conf) 进行修改
 
-  * 引入 莫离QX配置  [**Moli-X**](https://github.com/Moli-X/Resources?tab=readme-ov-file)
+  * 引入 莫离QX配置  [***Moli-X***](https://github.com/Moli-X/Resources?tab=readme-ov-file)
 
 * 配置修改
 
